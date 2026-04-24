@@ -1,3 +1,9 @@
+ANF Travel Assessment System (Based on GTAS)
+
+The ANF Travel Assessment System is a customized implementation of the Global Travel Assessment System (GTAS), developed to support the Anti Narcotics Force in identifying high-risk travel patterns.
+
+This system leverages machine learning and graph-based analytics (Neo4j integration) to analyze passenger and travel data, enabling intelligent risk assessment and proactive detection of suspicious activities linked to drug trafficking. By enhancing the core GTAS framework, the project focuses on automated risk scoring, data correlation, and pattern recognition to improve operational efficiency and decision-making.
+
 [![HitCount](http://hits.dwyl.io/US-CBP/GTAS.svg)](http://hits.dwyl.io/US-CBP/GTAS)
 
 ## Resources
